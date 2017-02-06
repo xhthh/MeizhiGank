@@ -36,6 +36,7 @@ import rx.schedulers.Schedulers;
 
 /**
  * Created by xht on 2016/11/7 17:18.
+ * 测试更新提交
  */
 
 public class GankFragment extends Fragment {
